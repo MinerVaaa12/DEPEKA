@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52782599533",
+    "project_id": "konsol11-6c74b",
+    "storage_bucket": "konsol11-6c74b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52782599533:android:f45b04590ac5ab78725e64",
+        "android_client_info": {
+          "package_name": "test.a1_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe_QzvLbfDhKbpKJmzd3W6e2veSrt4X_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
